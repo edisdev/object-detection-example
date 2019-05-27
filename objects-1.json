@@ -1,0 +1,20 @@
+{
+  "objects": [
+    {
+      "name": "👍",
+      "keypress": 1
+    },
+    {
+      "name": "👎",
+      "keypress": 2
+    },
+    {
+      "name": "👌",
+      "keypress": 3
+    },
+    {
+      "name": "✋",
+      "keypress": 4
+    }
+  ]
+}

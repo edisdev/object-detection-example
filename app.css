@@ -1,0 +1,29 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+body {
+  display: inline-flex;
+  flex-direction: column;
+  background: #111;
+  color: #fff;
+  font-family: 'Open Sans', sans-serif;
+}
+
+.resultLabel {
+  font-size: 1.3em;
+  padding: 20px 30px;
+  border: .3px solid #fff;
+  text-align: center;
+}
+
+.objectsInfo {
+  margin-top: 10px;
+}
+
+.objectsInfo p {
+  padding: 10px;
+  text-align: center;
+}

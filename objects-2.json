@@ -1,0 +1,20 @@
+{
+  "objects": [
+    {
+      "name": "Çay",
+      "keypress": 1
+    },
+    {
+      "name": "Kulaklık",
+      "keypress": 2
+    },
+    {
+      "name": "Telefon",
+      "keypress": 3
+    },
+    {
+      "name": "Saat",
+      "keypress": 4
+    }
+  ]
+}
